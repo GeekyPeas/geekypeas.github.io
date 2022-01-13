@@ -4,3 +4,5 @@ gem "jekyll"
 gem "jekyll-gist"
 
 gem "webrick", "~> 1.7"
+
+gem "jekyll-paginate"

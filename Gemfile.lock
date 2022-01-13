@@ -50,6 +50,7 @@ GEM
       terminal-table (~> 2.0)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (2.1.0)
       sassc (> 2.0.1, < 3.0)
     jekyll-watch (2.2.1)
@@ -93,6 +94,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-gist
+  jekyll-paginate
   webrick (~> 1.7)
 
 BUNDLED WITH

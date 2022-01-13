@@ -7,4 +7,5 @@ logo: false
 paginate: 15
 baseurl: /
 plugins: [jekyll-gist]
+plugins: [jekyll-paginate]
 permalink: /:year/:month/:title.html
